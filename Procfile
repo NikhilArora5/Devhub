@@ -1,1 +1,1 @@
-web: gunicorn devsearchpip.wsgi --log-file-
+web:gunicorn devsearchpip.wsgi --log-file-
